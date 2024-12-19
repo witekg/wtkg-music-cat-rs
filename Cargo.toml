@@ -3,4 +3,12 @@ name = "wtkg-music-cat-rs"
 version = "0.1.0"
 edition = "2024"
 
+[[bin]]
+name = "id3tool"
+path = "src/id3tool/main.rs"
+
+[[bin]]
+name = "music-cat"
+path = "src/music-cat/main.rs"
+
 [dependencies]

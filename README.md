@@ -1,2 +1,2 @@
 # wtkg-music-cat-rs
-Music Collection Tools
+Music Collection Tools. Part 1.
